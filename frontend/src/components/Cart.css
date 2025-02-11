@@ -1,0 +1,35 @@
+
+.cart-container {
+    padding: 20px;
+    background-color: #f4f4f4;
+  }
+  
+  .cart-item {
+    background-color: white;
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .cart-item h4 {
+    margin: 0 0 10px 0;
+  }
+  
+  .cart-item p {
+    margin: 5px 0;
+  }
+  
+  .remove-button {
+    background-color: #dc3545;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .remove-button:hover {
+    background-color: #c82333;
+  }
+  
